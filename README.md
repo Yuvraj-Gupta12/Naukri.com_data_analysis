@@ -3,5 +3,6 @@ This project explores job market trends using data from naukri.com, leveraging p
 # Tools Used
  1. Database       : PostgreSQL
  2. Visualization  : Power BI
+ 3. Excel
 # Dashboard  :
 ![Image](https://github.com/user-attachments/assets/478749bc-2e02-41ac-9a15-d7c8b764a60e)
