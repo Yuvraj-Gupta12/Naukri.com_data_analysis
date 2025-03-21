@@ -18,5 +18,5 @@ After analyzing the naukri.com dataset, I derived several key insights about the
  1. BPO/ITES,Healthcare and IT industry have most job postings.
  2. Metro city like Banglore,chennai,delhi ,mumbai, and hyderabad dominates job markets.
  3. ITES,Medical,IT-Sodtware, and sales are skills in-demand.
- 4. Candidate must possess a postgraduate degree and have an experience of 0-1 yrs to be eligible for 53% of job market. 
+ 4. Candidate must possess a postgraduate degree and have an experience of 0-1 yrs to be eligible for 37% of job market. 
     
