@@ -4,7 +4,7 @@ This project explores job market trends using a dataset from naukri.com, one of 
 ## Objectives:
 To understand job market trends across industries and locations and identify in-demand skills and job roles.
 # About DataSet:
-
+The Naukri.com Dataset contains approximately 22000 rows of data.The dataset includes attributes such as company name,Education, Experience required,Job description,job address, job title,number of positions,salary and skills.   
 # Tools Used
  1. Database       : PostgreSQL(For data storage and cleaning)
  2. Visualization  : Power BI (For creating interactive dashboards)
