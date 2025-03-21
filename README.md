@@ -6,10 +6,11 @@ This project explores job market trends using a dataset from naukri.com, one of 
  2. To identify in-demand skills and job roles.
  3. To visualize job openings for diffrent experience levels.
 # About DataSet:
-The Naukri.com Dataset contains approximately 22000 rows of data.The dataset includes attributes such as company name,Education, Experience required,Job description,job address, job title,number of positions,Payrate and skills required. However, the dataset is messy ,with missing values and  inconsistent formatting in location names. Cleaning involves handling missing data and standarlizing location names to make it suitable for analysis.
+The Naukri.com Dataset contains approximately 22000 rows of data having 8256 company.The dataset includes attributes such as company name,Education, Experience required,Job description,job address, job title,number of positions,Payrate and skills required. However, the dataset is messy ,with missing values and  inconsistent formatting in location names. Cleaning involves handling missing data and standarlizing location names to make it suitable for analysis.
 # Tools Used
  1. Database       : PostgreSQL(For data storage and cleaning)
  2. Visualization  : Power BI (For creating interactive dashboards)
  4. Excel
 # Dashboard  :
 ![Image](https://github.com/user-attachments/assets/7f73d0a3-d6ab-434c-835b-ff28f64dd533)
+# Conclusion:
