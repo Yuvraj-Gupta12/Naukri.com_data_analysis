@@ -12,4 +12,4 @@ The Naukri.com Dataset contains approximately 22000 rows of data.The dataset inc
  2. Visualization  : Power BI (For creating interactive dashboards)
  4. Excel
 # Dashboard  :
-![Image](https://github.com/user-attachments/assets/478749bc-2e02-41ac-9a15-d7c8b764a60e)
+![Image](https://github.com/user-attachments/assets/7f73d0a3-d6ab-434c-835b-ff28f64dd533)
