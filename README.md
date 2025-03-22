@@ -1,5 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/19d4a674-c81f-4d74-b4c2-86127ccbc1db)
 # Naukri.com Job Market Analysis
+## About
 This project explores job market trends using a dataset from naukri.com, one of india's leading job portals. By leveraging postgreSQL for data processing and Power BI for visualization to extract meaningful insights into job opportunities,industry demands, and location-based hiring.
 ## Objectives:
  1. To understand job market trends across industries and locations.
